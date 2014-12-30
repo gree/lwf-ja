@@ -7,5 +7,8 @@ lwf-ja
 
 参考情報
 
-+ [Cocos2d-xフォーラム LWFスレッド](http://discuss.cocos2d-x.org/t/lwf-for-c-with-cocos2d-x-renderer/10257)
-+ [Unityフォーラム LWFスレッド](http://forum.unity3d.com/threads/lwf-an-open-source-tool-for-bringing-flash-animation-to-unity-and-html5.158771/)
++ [LWF Wiki](http://lwf-users.org/)
++ [Cocos2d-xフォーラム LWFスレッド](http://discuss.cocos2d-x.org/t/lwf-for-c-with-cocos2d-x-renderer/10257) (英語)
++ [Unityフォーラム LWFスレッド](http://forum.unity3d.com/threads/lwf-an-open-source-tool-for-bringing-flash-animation-to-unity-and-html5.158771/) (英語)
++ [Qiita LWFタグ](http://qiita.com/tags/lwf)
++ [スタック・オーバーフロー LWFタグ](http://ja.stackoverflow.com/questions/tagged/lwf)
